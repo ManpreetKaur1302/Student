@@ -29,7 +29,6 @@ public class StudentTester {
             System.out.println(studentList[i].getName());
         }
         
-        System.out.println("my name is manpreet kaur.");
         
     }
     
